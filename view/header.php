@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title><?php echo $pagetitle ?></title>
+    <title><?php echo $pagetitle . " This is demo"?></title>
    
 </head>
 
