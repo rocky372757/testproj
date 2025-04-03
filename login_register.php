@@ -149,6 +149,7 @@ else
 	$pagetitle = "Login and Register Sample Application";
 	include("view/header.php");  //header view file
 	include("view/home.php");  //article list view file
+	echo "Hello this is an addtion";
 }
 ?>
 
